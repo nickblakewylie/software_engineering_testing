@@ -69,7 +69,7 @@ For all technical questions, grade questions or questions regarding the class, f
 
 ## Meeting Schedule
 
-**This is on an online class.  There is no meeting schedule beyond student hours.
+**This is on an online class.  There is no meeting schedule beyond student hours.**
 
 ## Git and Github 
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
@@ -82,7 +82,7 @@ For all technical questions, grade questions or questions regarding the class, f
 3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020 
 
 ### Expectations 
-1. First, my basic expectations: For you to have viewed each course day's videos (short videos!), and any associated reading assignments prior to the scheduled lecture date. Again, **you are NOT required to be in the classroom**. Keeping up with materials will be essential for keeping us “together” on our path. 
+1. First, my basic expectations: For you to have viewed each course day's videos (short videos!), and any associated reading assignments prior to the scheduled lecture date. Again, **you are NOT required to be in the classroom, because there isn't one**. Keeping up with materials will be essential for keeping us “together” on our path. 
 2. I will have student hours on zoom every week. We can discuss the times that work best in the coming weeks.  
 3. The course will include discussion forums where you get to know each other, and discuss questions I pose for you in the assignments. 
 4. You will have access to a Slack Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Slack are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
@@ -100,7 +100,7 @@ My focus will be on ensuring you have the opportunity to understand and work wit
 
 ## Course Prerequisites
  - _CS 2050CS 3380_
- - _Access to a non-Windows Operating System_: There are many anomalies associated with Microsoft Windows based computers, even with its implementation of Ubuntu Linux that students find time consuming to resolve. These issues make Windows based computers a significant disadvantage in this course because the Faculty and TA simply do not have time to help troubleshoot these kinds of difficulties. *If you have a Windows based computer as your primary operating system please find another way.  To the extent possible, we will try to help identify resources, to help.*
+ - _Access to a non-Windows Operating System_: I am working on getting a Windows computer so I can be of more assistance to students running Windows 10.
 
 ## Course Procedural Matters
 1. Work will be completed in a GitHub Repository you are assigned for the course or submitted via Canvas.

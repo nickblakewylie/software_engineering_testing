@@ -1,6 +1,4 @@
-# Module Two
-
-**DRAFT**
+# Module Two: Software Engineering Models and Methods
 
 Please consult [assignments](../references/assignments.md) for due dates. 
 1. [Readings](./readings)
