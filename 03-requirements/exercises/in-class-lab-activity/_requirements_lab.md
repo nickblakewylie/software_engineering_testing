@@ -3,9 +3,9 @@
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
     - [Review the Role of the customer](./customer.md)
-    - [Read the customer statement of need (description on the CHAOSS and Augur Projects)](./customer-description.md)
+    - [Read the customer statement of need (description on the CHAOSS and Augur Projects)](./statement-of-need.md)
     - Read the description of your assigned role. Having a software engineer, requirements analyst and user are sufficient, since your groups are of 3-4 people. 
-        - [Customer](./customer.md)
+        - [Customer](./customer-description.md)
         - [User 1](./user1.md)
         - [User 2](./user2.md)
         - [Requirements Analyst](requirements-analyst.md)
