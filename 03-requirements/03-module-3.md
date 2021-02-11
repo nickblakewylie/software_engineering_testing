@@ -6,7 +6,7 @@ Please consult [assignments](../references/assignments.md) for due dates.
 3. [Exercises](./exercises)
     - [Individual Exercise 3.1](./exercises/03.1-Exercise-Requirements.md)
     - [Individual Exercise 3.2](./exercises/03.2-individual-requirements-analysis.md)
-4. [Online Discussion]()
+4. [Online Discussion](https://missouri.instructure.com/courses/50945/discussion_topics/891425?module_item_id=2575698)
 
 ## Plan for the week
 1. Initiate participation in the on-line discussion for this module no later than Tuesday night
