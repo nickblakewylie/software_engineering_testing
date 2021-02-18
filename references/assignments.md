@@ -19,14 +19,14 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 2. Build a Model | 2% | Sunday, February 7, 2021  | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |  
 | 3. Resume Submission | 1% | Sunday, February 7, 2021 | na | 
 | [**Requirements Management**](../03-requirements/03-module-3.md) ||
-| 1. Group Requirements Analysis  | 2% | Sunday, February 14, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
-| 2. Individual Requirements Analysis  | 3% | Sunday, February 14, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
+| 1. Group Requirements Analysis  | 2% | Wednesday, February 17, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
+| 2. Individual Requirements Analysis  | 3% | Wednesday, February 17, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | [**Systems Theory and Ethics**](../04-systems-theory-and-ethics/04-module-4.md) ||
-| 1. Create | 5% |  Sunday, February 21, 2021 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings/readings.md) | 
+| 1. Create | 5% |  Wednesday, February 24, 2021 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings/readings.md) | 
 | [**Technology Archicture and Software Design**](../05-architecture-design/05-module-5.md) ||
-| 1. Design | 5% |  Sunday, February 28, 2021 | [Design Readings](../05-architecture-design/readings/_design_readings.md) | 
+| 1. Design | 5% |  Tuesday, March 2, 2021 | [Design Readings](../05-architecture-design/readings/_design_readings.md) | 
 | [**Human Computer Interaction and Social Computing**](../06-hci-social-computing/06-module-6.md) ||
-| 1. User Experience Focus + Integration Focus | 5% | Sunday, March 7, 2021 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
+| 1. User Experience Focus + Integration Focus | 5% | Monday, March 8, 2021 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
 | [**Testing, Construction, and Deployment**](../07-construction-testing/07-module-7.md) ||
 | 1. Testing | 5% | Sunday, March 14, 2021 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
 | 2. Construction and Testing | 5% | Sunday, March 21, 2021 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
