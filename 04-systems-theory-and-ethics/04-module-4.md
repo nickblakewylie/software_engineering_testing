@@ -3,6 +3,6 @@
 2. [Slides](./slides/software-engineering-ethics.pdf)
 3. [Exercises](./exercises/exercises.md)
 4. [Videos](./videos/videos.md)
-    - To be updated after live lecture on 2/17/2021 [Module Four: Systems Theory and Ethics Lecture](https://)
+    - To be updated after live lecture on 2/17/2021 [Module Four: Systems Theory and Ethics Lecture](https://vimeo.com/513917986)
     - [Module Four: Systems Theory and Ethics Lecture - Archive](https://vimeo.com/459157708)
 
