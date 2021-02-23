@@ -5,3 +5,4 @@
 4. [Videos Chat Transcript: Augur Configuration](./video-info/zoom-transcript.md)
 5. [Video on Ethics](https://vimeo.com/513917986)
 
+
