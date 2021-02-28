@@ -22,9 +22,9 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 1. Group Requirements Analysis  | 2% | Wednesday, February 17, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | 2. Individual Requirements Analysis  | 3% | Wednesday, February 17, 2021 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | [**Systems Theory and Ethics**](../04-systems-theory-and-ethics/04-module-4.md) ||
-| 1. Create | 5% |  Wednesday, February 24, 2021 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings/readings.md) | 
+| 1. Create | 5% |  Friday, February 26, 2021 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings/readings.md) | 
 | [**Technology Archicture and Software Design**](../05-architecture-design/05-module-5.md) ||
-| 1. Design | 5% |  Tuesday, March 2, 2021 | [Design Readings](../05-architecture-design/readings/_design_readings.md) | 
+| 1. Design | 5% |  Thursday, March 4, 2021 | [Design Readings](../05-architecture-design/readings/_design_readings.md) | 
 | [**Human Computer Interaction and Social Computing**](../06-hci-social-computing/06-module-6.md) ||
 | 1. User Experience Focus + Integration Focus | 5% | Monday, March 8, 2021 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
 | [**Testing, Construction, and Deployment**](../07-construction-testing/07-module-7.md) ||
