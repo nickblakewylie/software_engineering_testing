@@ -12,7 +12,16 @@
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
 
 ## Student Hours
-[Every day at 5pm - 6pm for the first two weeks, starting WEDNESDAY, January 20, and then we will adapt the time. As needed if you are solidly booked during that time.](https://umsystem.zoom.us/my/sociallycompute?pwd=aE9VQ2laUUQwT2VXZkJESTRRV0N1Zz09) 
+[Monday and Wednesday, 5pm - 6pm.](https://umsystem.zoom.us/my/sociallycompute) 
+
+## Live Lectures
+1. Pre-recorded lectures will be provided for modules 6 through the end of the course. These are powerpoint focused. 
+2. Each week, on Monday from 7pm - 8pm I will be doing a whiteboard lecture/discussion on topic of the week. 
+
+## Project Team Meetings
+1. Once you are in your semester project teams, we will meet once per week for 15 minutes on Zoom. We will schedule this around the team's schedule. 
+2. I will facilitate 2 hackathons for 1/2 day during the semester project on Saturdays or Sundays to be determined. 
+
 -----
 
 ## Notes on the Semester
