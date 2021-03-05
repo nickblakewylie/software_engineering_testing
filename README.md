@@ -16,11 +16,11 @@
 
 ## Live Lectures
 1. Pre-recorded lectures will be provided for modules 6 through the end of the course. These are powerpoint focused. 
-2. Each week, on Monday from 7pm - 8pm I will be doing a whiteboard lecture/discussion on topic of the week. 
+2. Each week, on Monday from 7pm - 8pm I will be doing a whiteboard lecture/discussion on topic of the week. (https://umsystem.zoom.us/my/sociallycompute) 
 
 ## Project Team Meetings
 1. Once you are in your semester project teams, we will meet once per week for 15 minutes on Zoom. We will schedule this around the team's schedule. 
-2. I will facilitate 2 hackathons for 1/2 day during the semester project on Saturdays or Sundays to be determined. 
+2. I will facilitate 2 hackathons for 1/2 day during the semester project on Saturdays or Sundays to be determined. (https://umsystem.zoom.us/my/sociallycompute) 
 
 -----
 
