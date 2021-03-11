@@ -2,7 +2,7 @@
 Please consult [assignments](./references/assignments.md) for due dates. 
 1. [Readings](./readings/readings.md)
 2. [Slides](./slides)
-3. [Exercises](./exercises/exercises.md)
+3. [Exercises](./exercises/exercises.md) and especially the README.md that file points you to for getting PyTest setup. 
 
 ## Videos
 1. [Construction and Testing Lecture](https://vimeo.com/465596201)
