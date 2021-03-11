@@ -28,9 +28,9 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | [**Human Computer Interaction and Social Computing**](../06-hci-social-computing/06-module-6.md) ||
 | 1. User Experience Focus + Integration Focus | 5% | Tuesday, March 10, 2021 | [HCI and Social Computing](../06-hci-social-computing/readings/readings.md) |
 | [**Testing, Construction, and Deployment**](../07-construction-testing/07-module-7.md) ||
-| 1. Testing | 5% | Monday, March 15, 2021 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
+| 1. Testing | 5% | Wednesday, March 17, 2021 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
 | 2. Construction and Testing | 5% | Sunday, March 21, 2021 |  [Construction and Testing](../07-construction-testing/readings/readings.md) |
-| 3. Deployment | 5% | Sunday, March 21, 2021 | tbd |
+| 3. Deployment | 5% | Sunday, March 21, 2021 | We will Deploy Augur on Team Servers |
 | [**Maintenance and Evolution**](../08-maintenance/08-module-8.md)
 | 1. TBD | 5% | Sunday, April 4, 2021 | [TBD]() |
 | [**Software Engineering Projects**](../09-semester-project/09-module-9.md) ||
