@@ -1,13 +1,33 @@
 # Semester Project
 
+## Schedule and Deliverable Overview
+![](./images/semester-project.png)
+
+### Its not complicated. 
+
+### Overview in Text
+1. Sprint 1: Requirements/Deployment setup (Requirements document, link to deployed server)
+2. Sprint 2: Design (Fully fleshed out design. What are you going to build. As much detail as possible)
+3. Sprint 3: Code and Testing Iteration 1 (At least a "Hello World")
+4. Sprint 4: Code and Tesinng Iteration 2 (Your final product)
+
+## What You Turn In For Every Module: 
+1. A link to a GitHub Repository, which should contain: 
+  - A README.md file that explains how to deploy your code (if you add/change things from usual, otherwise this is probably a copy of Augur's readme.md)
+  - A Progress Report, which will be some kind indication about whether or not you need to update your scope. 
+2. There should be a branch each for sprint 1, sprint 2, sprint 3, and sprint 4. The finished product for each sprint for each module should be in that branch unchanged.
+3. The main branch should contain the *most recently turned in sprint*
+4. For each sprint, include any explanation of obstacles you encountered, reflections, and goals
+
 ## Setting up student meeting times
-1. Each team will have a virtual deployment machine that I provide. It will have sufficient disk space and 12 GB of virtual RAM. 
-2. We will work together to discuss the requirements you will work on, and organize your projects. 
-3. Times I have set aside right now are: 
-    - Noon - 8pm Wednesday, October 28
-    - 11am - 5pm Thursday, October 29
-    - Noon - 6pm Sunday, November 1
-4. You will each have an Augur Database at your disposal, and installed for you in your VM. It will have data from a set of 92 Scientific Open Source Software Projects. There are three repositories you can use in different combinations to address the requirements for your project. 
+1. Each team must have one deployment server that I can access to see their latest deployments, and a named GitHub Repository that is shared with me so I can monitor your development activity.  
+2. Each team will define a set of requirements for their project. There are a number of possibilities for working with Augur, and the publicly available dataset I will share with you. In addition to the Augur repository at https://github.com/chaoss/augur you may consider using the Jupyter Notebooks at https://github.com/chaoss/augur-community-reports to work things out. 
+3. **SIGN UP REQUIRED** Each team must meet with me between April 8, and April 14. Your **TEAM** can sign up here (MAKE SURE you can all be there at the time you sign up for): https://docs.google.com/spreadsheets/d/1zHhADSuvoc7Opl4WcjmIJXKWnDrBgveO2EbEFdk2ABA/edit?usp=sharing Each team should plan for 30 minutes. Times I have set aside right now are: 
+    - Thursday, April 8: 1pm - 5pm
+    - Friday, April 9: 12pm - 2pm, and 3pm - 5pm 
+    - Sunday, April 11: 4pm - 6pm 
+    - Monday, April 12: 12pm - 2pm, and 3pm - 6pm 
+4. If you want your own copy of populated Augur data to work with, a test database with Augur data in it from 92 open source scientific software packages is available upon request.  It will have data from a set of 92 Scientific Open Source Software Projects. **There are three repositories you can use in different combinations to address the requirements for your project.**
     - https://github.com/chaoss/augur (required)
     - https://github.com/chaoss/augur-community-reports 
     - https://github.com/chaoss/augur-spdx 
@@ -23,9 +43,8 @@
 ![](./images/augur-map.png)
 1. [Augur Documentation](https://oss-augur.readthedocs.io/en/dev/)
 2. [Augur Community Reports Repo](https://github.com/chaoss/augur-community-reports)
-3. [Slack Bot "Auggie"](http://auggie.augurlabs.io/#/login)
-4. http://augur.osshealth.io:5055/api/unstable/repos
-5. [Contributor Analysis from augur-community-reports](https://docs.google.com/presentation/d/1rLuEROyKlujjPd9AEQ5z1v0V1WPYagv454SBHFNpRDU/edit#slide=id.g8b77fbdb00_0_5)
+3. http://augur.osshealth.io:5055/api/unstable/repos
+4. [Contributor Analysis from augur-community-reports](https://docs.google.com/presentation/d/1rLuEROyKlujjPd9AEQ5z1v0V1WPYagv454SBHFNpRDU/edit#slide=id.g8b77fbdb00_0_5)
 
 ### Augur Documentation
 1. [Conceptual Overview of Augur Data](http://www.augurlabs.io/under-the-hood-with-augurs-data/)
@@ -36,7 +55,7 @@
 6. [Currently open Augur Issues](https://github.com/chaoss/augur/issues)
 
 ### Candidate Ideas
-0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137)
+0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137), or simply develop Jupyter Notebooks for
 1. Front end fixes
 2. Debugging and deploying machine learning workers (gsoc-dev branch)
 3. Ecosystem Level Queries and Analysis
@@ -46,5 +65,4 @@
 7. Many, many more to discuss!
 
 
-## Schedule and Deliverable Overview
-![](./images/semester-project.png)
+
