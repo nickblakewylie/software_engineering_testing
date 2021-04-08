@@ -34,7 +34,10 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | [**Maintenance and Evolution**](../08-maintenance/08-module-8.md)
 | 1. TBD | 5% | Sunday, April 4, 2021 | [TBD]() |
 | [**Software Engineering Projects**](../09-semester-project/09-module-9.md) ||
-| 1. Requirements Analysis for Semester Project | 34% | Four iterations due between Sunday, April 11, 2021 and Monday, May 17, 2021 | [TBD]() |
+| 1. Sprint 1 | x% | April 14, 2021| [TBD]() |
+| 1. Sprint 2 | x% | April 21, 2021| [TBD]() |
+| 1. Sprint 3 | x% | April 28, 2021| [TBD]() |
+| 1. Sprint 4 | x% | May 6, 2021 && May 16, 2021 | [TBD]() |
 | **Essential Orthogonal Disciplines** ||
 | 1. Documentation | 2% | Sunday, April 18, 2021 | [Discussion Forum]() |
 | 2. Security | 2% | Sunday, April 25, 2021 | [Discussion Forum]() |
