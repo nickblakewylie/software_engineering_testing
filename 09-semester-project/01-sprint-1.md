@@ -11,6 +11,10 @@
 3. Sprint 3: Code and Testing Iteration 1 (At least a "Hello World")
 4. Sprint 4: Code and Tesinng Iteration 2 (Your final product)
 
+### Looking for Requirements? 
+1. Look at https://chaoss.community/metrics
+2. Message Goggins
+
 ## What You Turn In For Every Module: 
 1. A link to a GitHub Repository, which should contain: 
   - A README.md file that explains how to deploy your code (if you add/change things from usual, otherwise this is probably a copy of Augur's readme.md)
