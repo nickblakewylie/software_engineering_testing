@@ -14,6 +14,13 @@
 ### Looking for Requirements? 
 1. Look at https://chaoss.community/metrics
 2. Message Goggins
+3. Look at the repos for the five working groups, and see what's in development, or been discussed.  They are at https://github.com/chaoss/wg-{Group Name}
+4. https://github.com/chaoss/wg-risk
+5. https://github.com/chaoss/wg-evolution
+6. https://github.com/chaoss/wg-value
+7. https://github.com/chaoss/wg-common
+8. https://github.com/chaoss/wg-diversity-inclusion
+
 
 ## What You Turn In For Every Module: 
 1. A link to a GitHub Repository, which should contain: 
