@@ -1,7 +1,7 @@
 # Semester Project
 
 ## Schedule and Deliverable Overview
-![](./images/semester-project.png)
+![](./images/semester-project.md.png)
 
 ### Its not complicated. 
 
