@@ -11,17 +11,6 @@
 3. Sprint 3: Code and Testing Iteration 1 (At least a "Hello World")
 4. Sprint 4: Code and Tesinng Iteration 2 (Your final product) [if you build notebooks, using https://github.com/augur/augur-community-reports, your final submission should include a running version of an exported Python program.]
 
-### Looking for Requirements? 
-1. Look at https://chaoss.community/metrics
-2. Message Goggins
-3. Look at the repos for the five working groups, and see what's in development, or been discussed.  They are at https://github.com/chaoss/wg-{Group Name}
-4. https://github.com/chaoss/wg-risk
-5. https://github.com/chaoss/wg-evolution
-6. https://github.com/chaoss/wg-value
-7. https://github.com/chaoss/wg-common
-8. https://github.com/chaoss/wg-diversity-inclusion
-
-
 ## What You Turn In For Every Module: 
 1. A link to a GitHub Repository, which should contain: 
   - A README.md file that explains how to deploy your code (if you add/change things from usual, otherwise this is probably a copy of Augur's readme.md)
@@ -66,14 +55,25 @@
 6. [Currently open Augur Issues](https://github.com/chaoss/augur/issues)
 
 ### Candidate Ideas
-0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137), or simply develop Jupyter Notebooks for
-1. Front end fixes
-2. Debugging and deploying machine learning workers (gsoc-dev branch)
-3. Ecosystem Level Queries and Analysis
-4. Documentation Updates, especially developer instructions
-5. Containerization of augur-spdx
-6. Frontend redesign or new front end using tools like Graphana 
-7. Many, many more to discuss!
+0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137)... you can see the context for these in the working groups themselves: 
+ - Look at the repos for the five working groups, and see what's in development, or been discussed.  They are at https://github.com/chaoss/wg-{Group Name} 
+ - https://github.com/chaoss/wg-risk
+ - https://github.com/chaoss/wg-evolution
+ - https://github.com/chaoss/wg-value
+ - https://github.com/chaoss/wg-common
+ - https://github.com/chaoss/wg-diversity-inclusion
+2. or simply develop Jupyter Notebooks for
+3. Front end fixes
+4. Debugging and deploying machine learning workers (gsoc-dev branch)
+5. Ecosystem Level Queries and Analysis
+6. Documentation Updates, especially developer instructions
+7. Containerization of augur-spdx
+8. Frontend redesign or new front end using tools like Graphana 
+9. Many, many more to discuss!
+10. ### Looking for Requirements? 
+11. Look at https://chaoss.community/metrics
+12. Message Goggins
+
 
 
 
