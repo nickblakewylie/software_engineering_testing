@@ -6,7 +6,7 @@
 ### Its not complicated. 
 
 ### Overview in Text
-1. Sprint 1: Requirements/Deployment setup (Requirements document, link to deployed server)
+1. Sprint 1: Requirements/Deployment setup (Requirements document, link to deployed server) **Deployed Server Only Requires a Link to the Augur API Endpoint http://myaugur.com/api/unstable/repos
 2. Sprint 2: Design (Fully fleshed out design. What are you going to build. As much detail as possible)
 3. Sprint 3: Code and Testing Iteration 1 (At least a "Hello World")
 4. Sprint 4: Code and Tesinng Iteration 2 (Your final product) [if you build notebooks, using https://github.com/augur/augur-community-reports, your final submission should include a running version of an exported Python program.]
