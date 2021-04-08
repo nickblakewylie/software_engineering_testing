@@ -64,7 +64,7 @@
  - https://github.com/chaoss/wg-diversity-inclusion
 2. or simply develop Jupyter Notebooks for
 3. Front end fixes
-4. Debugging and deploying machine learning workers (gsoc-dev branch)
+4. Debugging and deploying machine learning workers
 5. Ecosystem Level Queries and Analysis
 6. Documentation Updates, especially developer instructions
 7. Containerization of augur-spdx
