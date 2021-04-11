@@ -73,6 +73,7 @@
 10. ### Looking for Requirements? 
 11. Look at https://chaoss.community/metrics
 12. Message Goggins
+14. Brand new Augur Frontend Contributions: https://github.com/augurlabs/augur_view
 
 
 
