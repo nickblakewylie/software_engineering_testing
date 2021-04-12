@@ -44,7 +44,7 @@
 ![](./images/augur-map.png)
 1. [Augur Documentation](https://oss-augur.readthedocs.io/en/dev/)
 2. [Augur Community Reports Repo](https://github.com/chaoss/augur-community-reports)
-3. http://augur.osshealth.io:5055/api/unstable/repos
+3. http://augur.osshealth.io:5055/api/unstable/repos OR http://vmware.osshealth.io:5033/api/unstable
 4. [Contributor Analysis from augur-community-reports](https://docs.google.com/presentation/d/1rLuEROyKlujjPd9AEQ5z1v0V1WPYagv454SBHFNpRDU/edit#slide=id.g8b77fbdb00_0_5)
 
 ### Augur Documentation
