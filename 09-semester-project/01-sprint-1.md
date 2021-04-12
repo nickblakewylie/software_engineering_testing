@@ -33,6 +33,7 @@
     - https://github.com/chaoss/augur-spdx 
 5. There are related projects that you may consider incorporating into Augur as well. These include: 
     - https://deps.cloud/ -- They need a PyPi dependency collector at the moment
+    - deps.cloud source code: https://github.com/depscloud/deps.cloud
     - https://github.com/indeedeng/Mariner-Issue-Collector - Here, you could take a list of GitHub repositories from an Augur instance and gather information on issues recently opened. 
 
 ## Resources for Getting Started and Requirements (All groups need at least one use case, including the diagram. Some groups may be able to more easily express the details of their requirements narratively or in the spreadsheet template from module 3)
