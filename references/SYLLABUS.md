@@ -69,7 +69,7 @@ For all technical questions, grade questions or questions regarding the class, f
 
 ## Meeting Schedule
 
-**This is on an online class.  There is no meeting schedule beyond student hours.**
+Tuesdays and Thursdays at 2pm - 3:15pm
 
 ## Git and Github 
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
