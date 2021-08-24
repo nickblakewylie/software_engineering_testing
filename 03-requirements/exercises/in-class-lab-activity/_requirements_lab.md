@@ -34,4 +34,4 @@ After you classify (score) the requirements as above, for the consolidation phas
 - If your ideas describe features, capture them in terms of functional requirements.
 - If your ideas describe system performance and infrastructure features, and capture them as system requirements.
 
-You can do the consolidation in documents or in a subthread of this forum. 
+
