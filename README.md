@@ -12,7 +12,7 @@
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
 
 ## Student Hours
-[Monday and Wednesday, 5pm - 6pm.](https://umsystem.zoom.us/my/sociallycompute) 
+TBD
 
 ## Live Lectures
 1. Pre-recorded lectures will be provided for modules 6 through the end of the course. These are powerpoint focused. 
