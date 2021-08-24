@@ -3,7 +3,7 @@
 ## Schedule and Deliverable Overview
 ![](./images/semester-project.md.png)
 
-### Its not complicated. 
+## Its not complicated. 
 
 ### Overview in Text
 1. Sprint 1: Requirements/Deployment setup (Requirements document, link to deployed server) **Deployed Server Only Requires a Link to the Augur API Endpoint http://myaugur.com/api/unstable/repos .**
@@ -75,7 +75,3 @@
 11. Look at https://chaoss.community/metrics
 12. Message Goggins
 14. Brand new Augur Frontend Contributions: https://github.com/augurlabs/augur_view
-
-
-
-
