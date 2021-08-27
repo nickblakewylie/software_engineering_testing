@@ -1,12 +1,13 @@
 # Syllabus
-_CS4320/7320 remains listed as a face to face course, however your participation in classroom activities is at your own discretion. I will provide all materials for the course through its GitHub repository, and where feasible through Canvas. **GitHub is where you will learn how to work on a software team,** solving non-linear, difficult problems in the face of user’s who generally struggle to express what they want._
+This is a face to face class. 
 
-**Points**: There are 1,000 points in this course. We will divide your final score by 10 to arrive at your grade. Canvas *should* to this for us, but we always double check. 
+**Points**: There are around 1,000 points in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* to this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
+
+_The syllabus and the course schedule will evolve based on student progress. We will never alter the syllabus for assignments in the past or percentage of the grade. Topics may be changed and assignments substituted as necessary. Please make sure you are looking at the current version of the syllabus from Canvas at all times.  Any changes will be announced in class as well._
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
  - Graduate students enrolled in the course will be perform additional literature review and semester project work.
- - _The syllabus and the course schedule will evolve based on student progress. We will never alter the syllabus for assignments in the past or percentage of the grade. Topics may be changed and assignments substituted as necessary. Please make sure you are looking at the current version of the syllabus from Canvas at all times.  Any changes will be announced in class as well._
  - **Prerequisite Courses CS2050, CS3380**
 
 ## Student Hours:
@@ -178,8 +179,6 @@ Grades will be **+/-** for both Undergraduates and Graduate Students. Per assign
 ## Course Policies
 
 ### Participation, out-of-class exercises and in-class quizzes
-**FALL 2020 PANDEMIC NOTE: PLEASE SEE THE STATEMENT ON PARTICIPATION IN MY EMAILS**
-
 Mastery of these topics is achieved through execution of the software engineering process. The course material and exercise sequences are designed to build a foundation upon which to successfully participate in a team-oriented software engineering project.
 
 **There will be periodic short quizzes in this course**.  These will be announced in class during the session before each quiz. It is expected that you are current on your lecture notes, readings and assignments from the week prior to each quiz. There will be no more than five quizzes throughout the semester. If you are not present for a quiz you will not get credit.
@@ -187,7 +186,7 @@ Mastery of these topics is achieved through execution of the software engineerin
 Each exercise and lecture topic builds upon the concepts and lessons of the previous days and weeks, and therefore they are each critical to the progression of the class. The solution to each exercise will be provided and/or discussed after its due date. For this reason, **no late Exercises will be accepted**. All exercises are designed and intended to be an individual effort, _collaborative implementation or copying_ will result in a zero (0) on the exercise for all students involved. During lecture times, participation exercises and quizzes will be administered. These serve two purposes: to gauge the comprehension of the class regarding the recent lecture topics and concepts, and to survey lecture participation. **These participation events cannot be made up when missed, resulting in a zero (0) grade.**
 
 ### Exceptions due to outside factors
-Exceptions will be made to the above policies for only the following conditions: a) illness that is documented by a medical professional; b) pre-absence email notification to the instructor regarding illness, family related matters, career related matters. **WARNING:** information technology related problems/failures/challenges are not appropriate excuses for late work. As a student in a senior-level Computer Science course, it is expected that you are capable of mitigating the risks associated with technology!
+Exceptions will be made to the above policies for only the following conditions: a) illness or concern about your health; b) pre-absence email notification to the instructor regarding illness, family related matters, career related matters. **WARNING:** information technology related problems/failures/challenges are not appropriate excuses for late work. As a student in a senior-level Computer Science course, it is expected that you are capable of mitigating the risks associated with technology! **However, in the interest of providing you a real world experience, if you are running late, lets talk about how to change the scope.** I do allow resubmission. 
 
 ## Self Determination as a Learner
 
@@ -226,16 +225,4 @@ _Students with Disabilities:_
 
 ## Decreasing the Risk of COVID-19 in Classrooms and Labs
 
-MU cares about the health and safety of its students, faculty, and staff. To provide safe, high-quality education amid COVID-19, we will follow several specific campus policies in accordance with the advice of the Center for Disease Control and Boone County health authorities. This statement will be updated as information changes.
- - If you are experiencing any COVID-related symptoms, or are otherwise feeling unwell, do not attend in-person classes and contact your health care provider and/or student health immediately. COVID symptoms include: fever greater than 100.4 or chills; cough, shortness of breath or difficulty breathing; fatigue; unexplained muscle or body aches; headache; new loss of taste or smell; sore throat; congestion or runny nose; nausea or vomiting; diarrhea.
- - We will all wear face coverings while in the classroom, unless you have a documented exemption due to a disability or medical condition.
- - We will maintain a 6-foot distance from each other at all times (except in specific lab/studio courses with other specific guidelines for social distancing).
- - We will enter the classroom and fill the room starting at the front, filing all the way across a row. When class ends, we will exit the row nearest to the door first; the instructor or TA will give the signal for the next row to exit, in the same manner.
- - Online office hours will be available for all students.
- - This course will provide pre-recorded lectures and not require student participation in the lecture sessions. The instructor will be present during lecture sessions in accordance with policy and their own health status.
-
-Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the accountability process, as stated in the University’s Collected Rules and Regulations, Chapter 200 Student Code of Conduct.
-
-If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here: https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38
-
-By taking the above measures, we are supporting your health and that of the whole Mizzou community. Thank you in advance for joining me and your peers in adhering to these safety measures. 
+We will follow University Policies as they evolve. We will also monitor local and campus statistics. If you have a concern about continuing in person, I welcome such discussions. 
