@@ -8,9 +8,6 @@
 5. [Weekly Discussions](Will be posted in Canvas, and center on your weekly projects)
 6. **[Modules](./modules.md)** 
 
-## Course Videos
-[Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/8029447)
-
 ## Student Hours
 TBD
 
