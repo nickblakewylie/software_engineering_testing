@@ -6,3 +6,4 @@
 4. [Online dating](./social-online-dating.pdf)
 5. [Predicting sports outcomes with Twitter](./twitter-sports-prediction.pdf)
 6. [Making Open Source Health Transparent](./oss-transparent.pdf)
+7. [HCI Remixed](./hci-remixed.pdf)
