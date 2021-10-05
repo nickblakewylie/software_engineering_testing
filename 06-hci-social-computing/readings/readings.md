@@ -5,3 +5,4 @@
 3. [Rural isolation and social computing tools](./rural-isolation-social-computing.pdf)
 4. [Online dating](./social-online-dating.pdf)
 5. [Predicting sports outcomes with Twitter](./twitter-sports-prediction.pdf)
+6. [Making Open Source Health Transparent](./oss-transparent.pdf)
