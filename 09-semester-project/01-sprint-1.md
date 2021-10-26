@@ -22,7 +22,7 @@
 ## Setting up student meeting times
 1. Each team must have one deployment server that I can access to see their latest deployments, and a named GitHub Repository that is shared with me so I can monitor your development activity.  
 2. Each team will define a set of requirements for their project. There are a number of possibilities for working with Augur, and the publicly available dataset I will share with you. In addition to the Augur repository at https://github.com/chaoss/augur you may consider using the Jupyter Notebooks at https://github.com/chaoss/augur-community-reports to work things out. 
-3. **SIGN UP REQUIRED** Each team must meet with me between April 8, and April 14. Your **TEAM** can sign up here (MAKE SURE you can all be there at the time you sign up for): https://docs.google.com/spreadsheets/d/1zHhADSuvoc7Opl4WcjmIJXKWnDrBgveO2EbEFdk2ABA/edit?usp=sharing Each team should plan for 30 minutes. 
+3. **SIGN UP REQUIRED** Each team must meet with me. I will publish a spreadsheet later today. 
 4. If you want your own copy of populated Augur data to work with, a test database with Augur data in it from 92 open source scientific software packages is available upon request.  It will have data from a set of 92 Scientific Open Source Software Projects. **There are three repositories you can use in different combinations to address the requirements for your project.**
     - https://github.com/chaoss/augur (required)
     - https://github.com/chaoss/augur-community-reports 
