@@ -5,7 +5,7 @@
 ## Schedule and Deliverable Overview
 ![](./images/semester-project.md.png)
 
-## Its not complicated. 
+## Its not complicated.
 
 ### Overview in Text
 1. Sprint 1: Requirements/Deployment setup (Requirements document, link to deployed server) **Deployed Server Only Requires a Link to the Augur API Endpoint http://myaugur.com/api/unstable/repos .**
@@ -13,7 +13,7 @@
 3. Sprint 3: Code and Testing Iteration 1 (At least a "Hello World")
 4. Sprint 4: Code and Tesinng Iteration 2 (Your final product) [if you build notebooks, using https://github.com/chaoss/augur-community-reports, your final submission should include a running version of an exported Python program.]
 
-## What You Turn In For Every Module: 
+## What You Turn In For Every Module:
 1. A link to a GitHub Repository, which should contain: 
   - A README.md file that explains how to deploy your code (if you add/change things from usual, otherwise this is probably a copy of Augur's readme.md)
   - A Progress Report, which will be some kind indication about whether or not you need to update your scope. 
