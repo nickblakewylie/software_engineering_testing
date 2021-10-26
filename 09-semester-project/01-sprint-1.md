@@ -1,7 +1,5 @@
 # Semester Project
 
-**2021-08-27: Published as a draft with valid readings and exercise links. Not confirmed until we reach this module and this header is removed**
-
 ## Schedule and Deliverable Overview
 ![](./images/semester-project.md.png)
 
@@ -24,11 +22,7 @@
 ## Setting up student meeting times
 1. Each team must have one deployment server that I can access to see their latest deployments, and a named GitHub Repository that is shared with me so I can monitor your development activity.  
 2. Each team will define a set of requirements for their project. There are a number of possibilities for working with Augur, and the publicly available dataset I will share with you. In addition to the Augur repository at https://github.com/chaoss/augur you may consider using the Jupyter Notebooks at https://github.com/chaoss/augur-community-reports to work things out. 
-3. **SIGN UP REQUIRED** Each team must meet with me between April 8, and April 14. Your **TEAM** can sign up here (MAKE SURE you can all be there at the time you sign up for): https://docs.google.com/spreadsheets/d/1zHhADSuvoc7Opl4WcjmIJXKWnDrBgveO2EbEFdk2ABA/edit?usp=sharing Each team should plan for 30 minutes. Times I have set aside right now are: 
-    - Thursday, April 8: 1pm - 5pm
-    - Friday, April 9: 12pm - 2pm, and 3pm - 5pm 
-    - Sunday, April 11: 4pm - 6pm 
-    - Monday, April 12: 12pm - 2pm, and 3pm - 6pm 
+3. **SIGN UP REQUIRED** Each team must meet with me between April 8, and April 14. Your **TEAM** can sign up here (MAKE SURE you can all be there at the time you sign up for): https://docs.google.com/spreadsheets/d/1zHhADSuvoc7Opl4WcjmIJXKWnDrBgveO2EbEFdk2ABA/edit?usp=sharing Each team should plan for 30 minutes. 
 4. If you want your own copy of populated Augur data to work with, a test database with Augur data in it from 92 open source scientific software packages is available upon request.  It will have data from a set of 92 Scientific Open Source Software Projects. **There are three repositories you can use in different combinations to address the requirements for your project.**
     - https://github.com/chaoss/augur (required)
     - https://github.com/chaoss/augur-community-reports 
@@ -50,12 +44,7 @@
 4. [Contributor Analysis from augur-community-reports](https://docs.google.com/presentation/d/1rLuEROyKlujjPd9AEQ5z1v0V1WPYagv454SBHFNpRDU/edit#slide=id.g8b77fbdb00_0_5)
 
 ### Augur Documentation
-1. [Conceptual Overview of Augur Data](http://www.augurlabs.io/under-the-hood-with-augurs-data/)
-2. [Augur's Full, physical data model](http://www.augurlabs.io/augurs-full-physical-data-model/)
-3. [Creating an Augur Worker](http://www.augurlabs.io/learn-how-to-create-an-augur-worker/)
-4. [CHAOSS Committers Metrics](https://chaoss.community/metric-committers/)
-5. [CHAOSS Risk Metrics](https://chaoss.community/metrics/#user-content-focus-area---business-risk)
-6. [Currently open Augur Issues](https://github.com/chaoss/augur/issues)
+https://oss-augur.readthedocs.io/en/main/
 
 ### Candidate Ideas
 0. [Metrics Currently Under Development That You Could Create EndPoints For](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=1004270137)... you can see the context for these in the working groups themselves: 
