@@ -1,7 +1,6 @@
 ## Setup a Development Environment
 -  Update Python to 3.7:
-   - `sudo apt-get install python3.7`
-   - `sudo update-alternatives –install /usr/bin/python3 python3 /usr/bin/python3.7 2`
+   - `sudo apt-get install python3.8`
    - `sudo update-alternatives –config python3`
    - Select the option for Python 3.7
 - Install Python’s Virtual Environment Tool: ‘pip3 install virtualenv‘
