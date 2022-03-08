@@ -1,22 +1,11 @@
-# Software Engineering I: Fall, 2020 : CS 4320/7320
+# Software Engineering I: CS 4320/7320
 1. [Course Syllabus](./references/SYLLABUS.md)
-2. [**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/zt-gpa3zvs2-nI0VhYhcW~pnSL_92AqoEA)
  - Working through link validation and setting deadlines after module one.  Please read the course syllabus and README.md file. Of important note, I will host student hours each day from 5pm to 6pm starting tomorrow, through Tuesday, February 2nd. After that we will set a schedule based on what works best for the course. Please review this week's assignments, and ask questions on the course SLACK channel here: https://join.slack.com/t/mu-software-eng/shared_invite/zt-gpa3zvs2-nI0VhYhcW~pnSL_92AqoEA
  - And join the Spring, 2020 Channel, here: https://mu-software-eng.slack.com/archives/C01KK9YSD89
 3. [Assignment Calendar](./references/assignments.md)
 4. [Weekly Discussions](Will be posted in Canvas, and center on your weekly projects)
 5. **[Modules](./modules.md)** 
 
-## Student Hours
-TBD
-
-## Live Lectures
-1. Pre-recorded lectures will be provided for modules 6 through the end of the course. These are powerpoint focused. 
-2. Each week, on Monday from 7pm - 8pm I will be doing a whiteboard lecture/discussion on topic of the week. (https://umsystem.zoom.us/my/sociallycompute) 
-
-## Project Team Meetings
-1. Once you are in your semester project teams, we will meet once per week for 15 minutes on Zoom. We will schedule this around the team's schedule. 
-2. I will facilitate 2 hackathons for 1/2 day during the semester project on Saturdays or Sundays to be determined. (https://umsystem.zoom.us/my/sociallycompute) 
 
 -----
 
@@ -24,7 +13,7 @@ TBD
 1. First, my basic expectations: For you to view course videos and readings by Monday, except for week one obviously. Keeping up with materials will be essential for keeping us “together” on our path. 
 2. I will have student hours on zoom every week. We can discuss the times that work best in the coming weeks.  
 3. The course will rely heavily on discussion forums where you get to know each other, and discuss questions I pose for you in the assignments, and related to the material. Since this is an online course, Zoom, course discussions, and other virtual contact through GitHub will be our central means of working. **You should plan to participate in some form of class work with others around five days every week**
-4. You will have access to a Slack Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Slack are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
+4. You will have access to a Discord Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Discord are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
 5. You will have routine "self assessments" in Canvas. They will not be a component of your grade, except that you will be required to complete them.  Your "score" replaces some of the feedback on how well you are understanding the material that I historically discern from confused looks in the classroom. But your "score" is not graded. Just completing the self assessment. 
 6. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
 7. You have my personal commitment to creating a high quality learning opportunity for you, regardless of how you choose to participate. 
@@ -37,4 +26,4 @@ My focus will be on ensuring you have the opportunity to understand and work wit
 -----
 
 
-All Materials Copyright 2021, Sean P. Goggins 
+All Materials Copyright 2022, Sean P. Goggins 
