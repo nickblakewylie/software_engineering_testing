@@ -51,7 +51,6 @@ if __name__ == "__main__":
 
     # Initializing system object and loading data from "DB"
     gradeSystem = System()
-
     # Logging in as a TA
     gradeSystem.login('cmhbf5', 'bestTA')
     # Changing grade of yted91
